@@ -1,1 +1,1 @@
-Hello! This is test line wriiten to test SSH commit.
+Hello! This is the README file for the Next.js - .NET Microservices project!
